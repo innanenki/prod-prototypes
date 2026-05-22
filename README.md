@@ -13,7 +13,7 @@ Customer Hub intended to close the post-sale gap, providing transparency from co
 ## Workflex: [GeoFlex](https://geoflex.lovable.app/)
 GeoFlex Mobility Insights provides strategic insights for global workforce mobility programs.
 
-## EMMA: [Hypnos]https://emmahypnos.lovable.app/)
+## EMMA: [Hypnos](https://emmahypnos.lovable.app/)
 Tiered Configuration Governance, managing customer care platform configurations.
 
 ## PVcase: [SolarFinLens](https://solarfinlens.lovable.app)
