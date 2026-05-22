@@ -4,8 +4,8 @@ Work Product Prototypes Built for Different Organisations
 #Lovable: [LovGov](https://lovgov.lovable.app)
 Governance Gateway streamlines enterprise app deployment by automating IT approval workflows.
 
-#Kleinanzeigen: Steward Beacon - Outcome Copilot
-Steward Beacon provides sellers with AI-driven insights to understand and optimize their listing performance.
+#Kleinanzeigen: [Steward Beacon](https://stewedbacon.lovable.app/) 
+Steward Beacon is an Outcome Copilot providing sellers with AI-driven insights to understand and optimize their listing performance.
 
 #1k5: [CardioPulse](https://cardiopulse.lovable.app/)
 Customer Hub intended to close the post-sale gap, providing transparency from contract to live in five visible steps.
