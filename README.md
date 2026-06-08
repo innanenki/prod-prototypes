@@ -2,8 +2,8 @@
 Work Product Prototypes built to address different challenges faced by different organisations. All prototypes are functional with mock data, and are WCAG 2.2 A11y compliant. Built using Claude Code in combination with Lovable.
 
 ## nucao: 
-###[v1: DTC Lab](https://nucao-growth-lab.lovable.app)
-###[v2: Pathfinder](https://nucao-growth-navigator.lovable.app)
+### [v1: DTC Lab](https://nucao-growth-lab.lovable.app)
+### [v2: Pathfinder](https://nucao-growth-navigator.lovable.app)
 Showcasing the DTC growth accelerator opportunities for nucao. Includes funnel comparison, cohort dashboard, UTM attribution & fallback.
 
 ## Lovable: [LovGov](https://lovgov.lovable.app)
